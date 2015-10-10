@@ -31,8 +31,6 @@
     
 }
 
-
-//@property (nonatomic, strong) PageControlView244     *pageControlView;
 @property (nonatomic, assign) id <BannerViewDelegate>  delegate;
 @property (nonatomic, strong) UIPageControl     *pageControl;
 
